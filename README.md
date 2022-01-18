@@ -6,6 +6,6 @@ Problem Solving, Data Structure, Python Challenges
 <!-- TOC -->
 - [1. Diagonal Matrix Challenge]()   
     - [diagonalDifference Challenge](https://www.hackerrank.com/challenges/diagonal-difference/problem)  
-    - [Solution]()
+    - [Solution](https://github.com/mbayedione10/PythonCodingChallenge/blob/master/diagonalDifference.py)
 <!-- /TOC -->
 
