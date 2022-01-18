@@ -5,7 +5,6 @@ def diagonalDifference():
     """
     n = int(input("The number of rows and columns in the square matrix"))
     arr = [[0 for _ in range(n)] for _ in range(n)]
-    print(arr)
     for i in range(n):
         for j in range(n):
             print(i, j)
