@@ -9,7 +9,7 @@ def diagonalDifference():
         for j in range(n):
             print(i, j)
             arr[i][j] = float(input("arr[{}][{}]= ".format(i, j)))
-    left_diag = 0 
+    left_diag = 0
     right_diag = 0
     i = 0
     j = 0

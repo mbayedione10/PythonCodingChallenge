@@ -1,5 +1,5 @@
 # PythonCodingChallenge
-Problem Solving, Data Structure, Python Challenges
+Problem-Solving, Data Structure, Python Challenges
 
 
 ## Links  
@@ -12,5 +12,10 @@ Problem Solving, Data Structure, Python Challenges
 - [2. Binary Search]()   
     - [binarySearch Challenge](https://www.interviewbit.com/courses/programming/topics/binary-search/)  
     - [Solution](https://github.com/mbayedione10/PythonCodingChallenge/blob/master/binarySearch.py)
+<!-- /TOC -->
+<!-- TOC -->
+- [3. Compare the Triplets]()   
+    - [compareTriplets Challenge](https://www.hackerrank.com/challenges/compare-the-triplets/problem?h_r=profile)  
+    - [Solution](https://github.com/mbayedione10/PythonCodingChallenge/blob/master/compareTriplets.py)
 <!-- /TOC -->
 
