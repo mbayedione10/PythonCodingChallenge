@@ -11,11 +11,16 @@ Problem-Solving, Data Structure, Python Challenges
 <!-- TOC -->
 - [2. Binary Search]()   
     - [binarySearch Challenge](https://www.interviewbit.com/courses/programming/topics/binary-search/)  
-    - [Solution](https://github.com/mbayedione10/PythonCodingChallenge/blob/master/binarySearch.py)
+    - [Solution](binarySearch.py)
 <!-- /TOC -->
 <!-- TOC -->
 - [3. Compare the Triplets]()   
     - [compareTriplets Challenge](https://www.hackerrank.com/challenges/compare-the-triplets/problem?h_r=profile)  
-    - [Solution](https://github.com/mbayedione10/PythonCodingChallenge/blob/master/compareTriplets.py)
+    - [Solution](compareTriplets.py)
+<!-- /TOC -->
+<!-- TOC -->
+- [4. Find the couple elements in an unsorted sequence]()   
+    - [couple_elements Challenge](https://twitter.com/darajischool/status/1446452504355557377)  
+    - [Solution](couple_elements.py)
 <!-- /TOC -->
 
