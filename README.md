@@ -38,4 +38,10 @@ Problem-Solving, Data Structure, Python Challenges
     - [time_conversion Challenge](https://www.hackerrank.com/challenges/time-conversion/problem)  
     - [Solution](time_conversion.py)
 <!-- /TOC -->
+<!-- TOC -->
+- [8. Determine the number of apples and oranges that land on Sam's house]()
+    - [countApplesAndOranges Challenge](https://www.hackerrank.com/challenges/apple-and-orange/problem)  
+    - [Solution](countApplesAndOranges.py)
+<!-- /TOC -->
+
 
