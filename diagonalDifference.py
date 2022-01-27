@@ -7,7 +7,6 @@ def diagonalDifference():
     arr = [[0 for _ in range(n)] for _ in range(n)]
     for i in range(n):
         for j in range(n):
-            print(i, j)
             arr[i][j] = float(input("arr[{}][{}]= ".format(i, j)))
     left_diag = 0
     right_diag = 0

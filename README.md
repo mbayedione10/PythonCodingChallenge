@@ -6,7 +6,7 @@ Problem-Solving, Data Structure, Python Challenges
 <!-- TOC -->
 - [1. Diagonal Matrix Challenge]()   
     - [diagonalDifference Challenge](https://www.hackerrank.com/challenges/diagonal-difference/problem)  
-    - [Solution](https://github.com/mbayedione10/PythonCodingChallenge/blob/master/diagonalDifference.py)
+    - [Solution](diagonalDifference.py)
 <!-- /TOC -->
 <!-- TOC -->
 - [2. Binary Search]()   
@@ -22,5 +22,10 @@ Problem-Solving, Data Structure, Python Challenges
 - [4. Find the couple elements in an unsorted sequence]()   
     - [couple_elements Challenge](https://twitter.com/darajischool/status/1446452504355557377)  
     - [Solution](couple_elements.py)
+<!-- /TOC -->
+<!-- TOC -->
+- [5. Find the minimum sum and the maximum sum of 4 of 5 elements ]()
+    - [mini_max_sum Challenge](https://www.hackerrank.com/challenges/mini-max-sum/problem)  
+    - [Solution](mini_max_sum.py)
 <!-- /TOC -->
 
