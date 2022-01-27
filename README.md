@@ -33,4 +33,9 @@ Problem-Solving, Data Structure, Python Challenges
     - [grading_students Challenge](https://www.hackerrank.com/challenges/grading/problem)  
     - [Solution](grading_students.py)
 <!-- /TOC -->
+<!-- TOC -->
+- [7. Given a time in 12-hour AM/PM format, convert it to military (24-hour) time]()
+    - [time_conversion Challenge](https://www.hackerrank.com/challenges/time-conversion/problem)  
+    - [Solution](time_conversion.py)
+<!-- /TOC -->
 
