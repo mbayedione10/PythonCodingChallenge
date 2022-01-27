@@ -21,10 +21,10 @@ def countApplesAndOranges(s, t, a, b, apples: list, oranges: list):
 
 
 if __name__ == '__main__':
-    s = 7
-    t = 10
-    a = 4
-    b = 12
-    apples = [1, 3, -4]
-    oranges = [3, -2, -4]
-    print(countApplesAndOranges(s, t, a, b, apples, oranges))
+    start = 7
+    end = 10
+    apple_tree = 4
+    orange_tree = 12
+    apple = [1, 3, -4]
+    orange = [3, -2, -4]
+    print(countApplesAndOranges(start, end, apple_tree, orange_tree, apple, orange))
