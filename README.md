@@ -28,4 +28,9 @@ Problem-Solving, Data Structure, Python Challenges
     - [mini_max_sum Challenge](https://www.hackerrank.com/challenges/mini-max-sum/problem)  
     - [Solution](mini_max_sum.py)
 <!-- /TOC -->
+<!-- TOC -->
+- [6. Automate the rounding process following grading policy]()
+    - [grading_students Challenge](https://www.hackerrank.com/challenges/grading/problem)  
+    - [Solution](grading_students.py)
+<!-- /TOC -->
 
