@@ -20,10 +20,7 @@ def diagonalDifference():
         i = i + 1
         j = j + 1
         k = k - 1
-    if right_diag > left_diag:
-        diff = right_diag - left_diag
-    else:
-        diff = left_diag - right_diag
+    diff = abs(right_diag-left_diag)
     return int(diff)
 
 
