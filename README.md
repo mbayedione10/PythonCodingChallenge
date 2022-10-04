@@ -46,5 +46,7 @@ Problem-Solving, Data Structure, Python Challenges
   - [Solution](countApplesAndOranges.py)
     <!-- /TOC -->
     <!-- TOC -->
-- [9. Analyze records of temperature to find the closest to zero]() - [closeToZero Challenge](https://www.codingame.com/ide/puzzle/temperatures) - [Solution](closeToZero.py)
-<!-- /TOC -->
+- [9. Analyze records of temperature to find the closest to zero]()
+  - [closeToZero Challenge](https://www.codingame.com/ide/puzzle/temperatures)
+  - [Solution](closeToZero.py)
+  <!-- /TOC -->
