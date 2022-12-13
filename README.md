@@ -50,3 +50,10 @@ Problem-Solving, Data Structure, Python Challenges
   - [closeToZero Challenge](https://www.codingame.com/ide/puzzle/temperatures)
   - [Solution](closeToZero.py)
   <!-- /TOC -->
+- [10. Show the list of prime numbers]()
+  - [Solution](tester_premier.py)
+  <!-- /TOC -->
+- [11. Check that for all pairs of players, player x has played against y.]()
+  - [Check players Challenge](check_players.md)
+  - [Solution](check_players.py)
+  <!-- /TOC -->
